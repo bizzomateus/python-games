@@ -1,7 +1,15 @@
 melancia
 banana
-australopitecus
-indio
 laranja
 amora
 tangerina
+carambola
+ameixa
+pitanga
+morango
+abacaxi
+abatete
+kiwi
+uva
+pera
+coco
