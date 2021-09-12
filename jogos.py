@@ -10,9 +10,9 @@ if __name__ == "__main__":
     print('\n (1)Forca (2)Adivinhação: ')
     jogo = input('Escolha: ')
 
-    if (jogo == 1):
+    if (jogo == '1'):
         forca.jogar()
-    elif (jogo == 2):
+    elif (jogo == '2'):
         adivinha.jogar()
     else:
         print('Escolha inválida')
